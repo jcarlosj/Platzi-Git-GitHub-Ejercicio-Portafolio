@@ -1,0 +1,47 @@
+commit 72c28feafb0f973301d016448406eb6018660a05
+Author: Juan Carlos Jiménez Gutiérrez <jcjimenez29@misena.edu.co>
+Date:   Fri Sep 4 23:16:33 2015 -0500
+
+    Actualización del portafolio
+
+commit ce4becb83bb6cde341204a3e00ea250e964e3cf1
+Author: Juan Carlos Jiménez Gutiérrez <jcjimenez29@misena.edu.co>
+Date:   Fri Sep 4 23:14:49 2015 -0500
+
+    Actualización presentación
+
+commit 45173532f70515d8cc610abe75c800d51295bead
+Author: Juan Carlos Jiménez Gutiérrez <jcjimenez29@misena.edu.co>
+Date:   Fri Sep 4 23:12:44 2015 -0500
+
+    Actualización redes sociales
+
+commit 3c7258febe4ebdc52d94184323ddfa88e738fad4
+Author: Juan Carlos Jiménez Gutiérrez <jcjimenez29@misena.edu.co>
+Date:   Fri Sep 4 23:11:06 2015 -0500
+
+    Actualización del perfil
+
+commit 65d1554b42949c1839b513c6961679db5c95b636
+Author: Juan Carlos Jiménez Gutiérrez <jcjimenez29@misena.edu.co>
+Date:   Fri Sep 4 23:09:25 2015 -0500
+
+    Actualización de foto y nombre
+
+commit 5c4a21628c19cae6c5b2bd1ff9ab0a6edc7d8b8a
+Author: Miguel Nieva <miguelnieva@conexionew.com>
+Date:   Mon Dec 1 20:25:27 2014 -0600
+
+    Create freddier.txt
+
+commit c28df02cf4c730678ab6bb52713107efc5892077
+Author: Miguel Nieva <miguelnieva@conexionew.com>
+Date:   Mon Dec 1 13:34:12 2014 -0600
+
+    Create MENCIONOFICIAL.txt
+
+commit ea4e4a0439213ac10ae3d3aebe62590d0c0ff980
+Author: Miguel Nieva <miguelnieva@conexionew.com>
+Date:   Mon Nov 17 10:14:38 2014 -0500
+
+    Inicio de portafolio
