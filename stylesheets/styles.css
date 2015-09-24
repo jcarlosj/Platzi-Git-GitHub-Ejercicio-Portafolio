@@ -11,31 +11,29 @@ a
 
 ul
 {
-  margin: 20% 0 0% 0%;
+  /*border: 1px solid blue;*/
+  margin: auto auto;
+  width: 80%;
 }
 
 ul li
 {
+  /*border: 1px solid red;*/
+  display: inline-block;
   list-style: none;
+  padding: 12px;
+  width: 15%;
 }
 
 ul li a
 {
- text-decoration: none; 
+ text-decoration: none;  
 }
 
-ul li a p
+ul li a img
 {
-  width: 75%;
-  list-style-type: none;
-  background: #E94016;
-  border-bottom: solid thin white;
-  padding: .3em 1em .3em;
-  text-decoration: none;
-  color: white;
-  font-size: 13px;
+  width: 100%;
 }
-
 
 h1
 {
