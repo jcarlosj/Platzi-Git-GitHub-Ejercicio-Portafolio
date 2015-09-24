@@ -54,8 +54,8 @@ h3
   line-height: 32px;
   border-bottom: 1px #eee solid;
   color: #FFF7F7;
-  margin-bottom: 2.5em;
-  padding-bottom: .5em;
+  margin-bottom: 1.5em;
+  padding: .5em;
 }
 
 header.sidebar
@@ -151,10 +151,19 @@ div.layout-principal
 div.bloque
 {
   margin: 5% 0 0;
+  background: #F1F1F1;
+}
+
+div.bloque h3
+{
+  background: gray;
+  color: #F1F1F1;
+  line-height: 1.9em;
 }
 
 div.bloque p
 {
-  color: rgb(255, 255, 255);
+  color: gray;
   line-height: 1.9em;
+  padding: .5em;
 }
